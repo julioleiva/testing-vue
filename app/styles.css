@@ -1,0 +1,13 @@
+.instance {
+    border: 2px solid;
+}
+.winner{
+    background-color: aqua;
+}
+.box {
+    border: 2px solid red;
+}
+
+button {
+    display: flex;
+}
